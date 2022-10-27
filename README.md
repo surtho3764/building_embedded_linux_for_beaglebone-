@@ -1,0 +1,1 @@
+# building_embedded_linux_for_beaglebone-
