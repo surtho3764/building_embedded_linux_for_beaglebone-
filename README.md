@@ -1,1 +1,3 @@
-# building_embedded_linux_for_beaglebone-
+# Building Embedded Linux for Beaglebone Black
+
+# BeagleBone Black Build System manual
